@@ -15,3 +15,4 @@ cube = lambda x:x**3     #power of 3
 print(square(2))
 print(cube(2))
 print(raise_to_fourth_power(2))
+print(exponentiate.__doc__)
